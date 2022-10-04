@@ -201,10 +201,14 @@ button:active {
   input::placeholder {
     font-size: 12px;
   }
+  
+  a.whatsapp {
+    text-align: center; 
+  }
 
   .whatsapp {
     width: 65.3%;
-    margin: 0 8px;
+    margin: 0 38px;
   }
 }
 
