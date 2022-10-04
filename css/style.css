@@ -192,6 +192,11 @@ button:active {
     width: 80%;
     font-size: 12px;
   }
+  
+  #form_footer {
+    justify-content: space-between;
+    width: 80%;
+  }
 
   input::placeholder {
     font-size: 12px;
