@@ -194,7 +194,7 @@ button:active {
   }
   
   #form_footer {
-    justify-content: space-between;
+    justify-content: space-evenly;
     width: 80%;
   }
 
@@ -204,7 +204,6 @@ button:active {
 
   .whatsapp {
     width: 40%;
-    margin: 0 10px 5px 20px;
   }
 }
 
