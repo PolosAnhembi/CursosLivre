@@ -197,6 +197,11 @@ button:active {
     justify-content: space-between;
     width: 100%;
   }
+  
+  button {
+    width: 80px;
+    height: 40px;
+  }
 
   input::placeholder {
     font-size: 12px;
