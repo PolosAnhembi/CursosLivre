@@ -194,8 +194,8 @@ button:active {
   }
   
   #form_footer {
-    justify-content: space-between;
-    width: 80%;
+    justify-content: space-evenly;
+    width: 100%;
   }
 
   input::placeholder {
