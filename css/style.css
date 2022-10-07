@@ -194,7 +194,7 @@ button:active {
   }
   
   #form_footer {
-    justify-content: space-evenly;
+    justify-content: space-between;
     width: 100%;
   }
 
